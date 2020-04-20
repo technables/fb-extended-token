@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fb_extented_token", "fb_extented_token\fb_extented_token.csproj", "{DCE56831-601C-4805-9F56-B4171F06B67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE56831-601C-4805-9F56-B4171F06B67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE56831-601C-4805-9F56-B4171F06B67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE56831-601C-4805-9F56-B4171F06B67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE56831-601C-4805-9F56-B4171F06B67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D788E8A-89C7-496E-8088-2AC05391F37B}
+	EndGlobalSection
+EndGlobal

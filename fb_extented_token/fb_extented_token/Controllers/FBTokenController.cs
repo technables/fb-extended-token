@@ -13,8 +13,8 @@ namespace fb_extented_token.Controllers
     [ApiController]
     public class FBTokenController : ControllerBase
     {
-        private const string FB_AppId = "2865236557040981";
-        private const string FB_AppSecret = "e59701375cdf772592cb0cbd4581f438";
+        private const string FB_AppId = "your app id";
+        private const string FB_AppSecret = "your app secret";
         private string RequestHost()
         {
             HttpContext context = HttpContext.Request.HttpContext;
